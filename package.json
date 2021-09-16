@@ -30,7 +30,7 @@
     }
   },
   "dependencies": {
-    "@wppconnect-team/wppconnect": "^1.8.12",
+    "@wppconnect-team/wppconnect": "^1.8.13",
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
@@ -63,10 +63,10 @@
     "crypto-js": "^4.0.0",
     "eslint": "^7.28.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.0",
     "license-check-and-add": "^4.0.2",
-    "mongoose": "^5.12.15",
+    "mongoose": "^6.0.0",
     "nodemon": "^2.0.7",
     "prettier": "^2.3.1",
     "pretty-quick": "^3.1.0",
@@ -79,7 +79,7 @@
   "peerDependencies": {
     "aws-sdk": "^2.903.0",
     "crypto-js": "^4.0.0",
-    "mongoose": "^5.12.15",
+    "mongoose": "^6.0.0",
     "redis": "^3.1.2"
   }
 }
