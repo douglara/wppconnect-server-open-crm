@@ -45,7 +45,8 @@
       "--safebrowsing-disable-auto-update",
       "--ignore-certificate-errors",
       "--ignore-ssl-errors",
-      "--ignore-certificate-errors-spki-list"
+      "--ignore-certificate-errors-spki-list",
+      "--disable-setuid-sandbox"
     ]
   },
   "mapper": {
