@@ -1,7 +1,7 @@
 {
   "secretKey": "THISISMYSECURETOKEN",
-  "host": "http://localhost",
-  "port": "21465",
+  "host": "https://wppconnect-server-open-crm.herokuapp.com",
+  "port": "443",
   "startAllSession": true,
   "tokenStoreType": "file",
   "webhook": {
